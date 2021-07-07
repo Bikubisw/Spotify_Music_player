@@ -1,0 +1,15 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "Thanks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bikram",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "node-modules": "^1.0.1"
+  }
+}
